@@ -1,0 +1,5 @@
+<script>start("d:\\Prak PBO\\minggu1\\");</script>
+<script>onHasParentDirectory();</script>
+<script>addRow("soal1.py","soal1.py",0,303,"303 B",1740917796,"3/2/25, 7:16:36 PM");</script>
+<script>addRow("soal2.py","soal2.py",0,311,"311 B",1740897026,"3/2/25, 1:30:26 PM");</script>
+<script>addRow("soal3.py","soal3.py",0,345,"345 B",1740918611,"3/2/25, 7:30:11 PM");</script>
